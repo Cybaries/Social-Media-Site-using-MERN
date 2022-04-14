@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://LateCall:LearningMongo@mern.vwkob.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
